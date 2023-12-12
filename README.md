@@ -1,3 +1,5 @@
+![image](https://github.com/corinachistol/react-accordion/assets/115491975/2d993589-a96b-4fe1-8022-235128860299)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
